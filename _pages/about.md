@@ -1,19 +1,19 @@
 ---
+id: about
+aliases: []
+tags: []
+latest_posts: false
 layout: about
-title: about
+news: false
 permalink: /
-subtitle: University of Arizona PhD Student in Statistics and Data Science.
-
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info:
-
-news: false  # includes a list of news items
-latest_posts: false  # includes a list of the newest posts
-selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false  # includes social icons at the bottom of the page
+  image_circular: false
+selected_papers: false
+social: false
+subtitle: University of Arizona PhD Student in Statistics and Data Science.
+title: about
 ---
 
 ### Research Interests
@@ -22,6 +22,7 @@ social: false  # includes social icons at the bottom of the page
 - nonparametric statistics  
 - high-dimensional phenomenon  
 - replication crisis  
+- machine inference  
 
 ### Contact Info
 **Email**: [jmei@arizona.edu](mailto:jmei@arizona.edu)  
