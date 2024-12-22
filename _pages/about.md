@@ -20,7 +20,6 @@ title: about
 - change point analysis  
 - feature selection  
 - nonparametric statistics  
-- high-dimensional phenomenon  
 - replication crisis  
 - machine inference  
 
