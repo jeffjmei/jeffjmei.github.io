@@ -19,14 +19,16 @@ social: false # includes social icons at the bottom of the page
 ---
 
 ### Research Interests
-- change point analysis  
-- feature selection  
-- nonparametric statistics  
-- replication crisis  
-- machine inference  
+
+- change point analysis
+- feature selection
+- nonparametric statistics
+- replication crisis
+- machine inference
 
 ### Contact Info
+
 **Email**: [jmei@arizona.edu](mailto:jmei@arizona.edu)  
 **Office**: PAS 526  
 1118 E. Fourth Street  
-Tucson, AZ 85721  
+Tucson, AZ 85721
