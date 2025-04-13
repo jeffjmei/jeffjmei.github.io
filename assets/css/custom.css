@@ -1,8 +1,0 @@
-:root {
-  color-scheme: light !important;
-}
-
-/* Optional: fix post date colors if needed */
-.post-meta {
-  color: #555; /* or any muted text color you like */
-}
