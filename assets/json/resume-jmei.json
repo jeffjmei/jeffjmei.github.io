@@ -63,8 +63,9 @@
       "endDate": "2022-08-01",
       "location": "Las Vegas, NV",
       "highlights": [
-        "Automated tools with Python/VBA, improving workflow across departments",
         "Simulated new boarding procedures adopted company-wide",
+        "Automated tools with Python/VBA, improving workflow across departments",
+        "Built predictive models and performed data analysis to support operations", 
         "Optimized fare pricing and migrated tools to AWS"
       ]
     }
@@ -81,7 +82,8 @@
     {
       "name": "Modeling",
       "keywords": [
-        "Linear regression", "Hierarchical mixed effects models", "Neural networks", "Tree-Based Models"
+        "Linear regression", "Hierarchical mixed effects models", 
+        "Neural networks", "Tree-Based Models"
       ]
     }
   ],
