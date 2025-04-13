@@ -24,6 +24,7 @@ social: false # includes social icons at the bottom of the page
 - uncertainty quantification
 - machine learning theory
 - replication crisis
+- optimization
 
 ### Contact Info
 
