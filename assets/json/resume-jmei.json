@@ -1,0 +1,95 @@
+{
+  "basics": {
+    "name": "Jeffrey Mei",
+    "label": "PhD Student in Statistics and Data Science",
+    "email": "JeffreyMei926@gmail.com",
+    "phone": "(702) 417-2012",
+    "location": {
+      "city": "Tucson",
+      "region": "Arizona",
+      "countryCode": "US"
+    },
+    "summary": "PhD student at University of Arizona researching correlation estimation in the presence of change points. Strong background in statistics, R programming, and simulation studies, with industry experience in operations research and clinical trials."
+  },
+  "education": [
+    {
+      "institution": "University of Arizona",
+      "location": "Tucson, AZ",
+      "studyType": "PhD",
+      "area": "Statistics and Data Science",
+      "startDate": "2022-08-01",
+      "endDate": "",
+      "courses": ["Minor: Systems Industrial Engineering (Optimization)", "Correlation Estimation in Non-Stationary Time-Series"]
+    },
+    {
+      "institution": "University of Nevada, Reno",
+      "location": "Reno, NV",
+      "studyType": "BS",
+      "area": "Mathematics",
+      "startDate": "2012-08-01",
+      "endDate": "2016-05-01",
+      "courses": ["Minors: Computer Science, Physics"]
+    }
+  ],
+  "work": [
+    {
+      "name": "University of Arizona",
+      "position": "Graduate Research Assistant",
+      "startDate": "2022-08-01",
+      "endDate": "",
+      "location": "Tucson, AZ",
+      "summary": "Researching correlation estimation methods with change points. Wrote simulation reports and organized ML seminars.",
+      "highlights": [
+        "Developed method for estimating cross-sectional correlation with change points",
+        "Implemented and simulated algorithms in R",
+        "Wrote technical reports and organized machine learning seminars"
+      ]
+    },
+    {
+      "name": "Critical Path Institute",
+      "position": "Quantitative Medicine Scientist Intern",
+      "startDate": "2024-05-01",
+      "endDate": "2024-08-01",
+      "location": "Tucson, AZ",
+      "highlights": [
+        "Built R package for simulating clinical trials using Shiny",
+        "Integrated unit testing into CI/CD pipeline via GitLab"
+      ]
+    },
+    {
+      "name": "Allegiant Airlines",
+      "position": "Operations Research Analyst",
+      "startDate": "2019-05-01",
+      "endDate": "2022-08-01",
+      "location": "Las Vegas, NV",
+      "highlights": [
+        "Automated tools with Python/VBA, improving workflow across departments",
+        "Simulated new boarding procedures adopted company-wide",
+        "Optimized fare pricing and migrated tools to AWS"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming",
+      "keywords": ["R", "Python", "SQL", "VBA", "C++", "Java"]
+    },
+    {
+      "name": "Tools",
+      "keywords": ["Git", "Linux", "Docker", "AWS (Lambda, EC2, S3)", "Markdown", "Jupyter Notebooks"]
+    },
+    {
+      "name": "Modeling",
+      "keywords": [
+        "Linear regression", "Hierarchical mixed effects models", "Neural networks", "Tree-Based Models"
+      ]
+    }
+  ],
+  "projects": [],
+  "publications": [],
+  "certificates": [],
+  "languages": [],
+  "interests": [],
+  "volunteer": [],
+  "references": []
+}
