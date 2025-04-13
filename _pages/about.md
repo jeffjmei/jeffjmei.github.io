@@ -20,11 +20,10 @@ social: false # includes social icons at the bottom of the page
 
 ### Research Interests
 
-- change point analysis
-- feature selection
-- nonparametric statistics
+- non-stationary time-series
+- uncertainty quantification
+- machine learning theory
 - replication crisis
-- machine inference
 
 ### Contact Info
 

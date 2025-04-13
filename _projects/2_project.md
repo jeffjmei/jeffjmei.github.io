@@ -1,12 +1,16 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
+title: Double Descent
+description: 
 img: assets/img/3.jpg
 importance: 2
 category: work
 giscus_comments: true
 ---
+
+Many modern machine learning models are over-parameterized. While the classical theory for under-parameterized models has been thoroughly analyzed, the theory for over-parameterized regimes is largely undeveoped. Machine learning practitioners have observed empirical evidence that over-parameterized models defy the conventional theory: local minima have the tendency to also be global, stochastic gradient descent converges particularly fast. In this report, we analyze some of the benefits stochastic gradient descent receives in over-parameterized models and provide numerical results to support the claims. 
+
+
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
