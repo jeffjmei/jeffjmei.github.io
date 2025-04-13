@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Double Descent
+title: The Double Descent Phenomenon
 date: 2025-04-12 22:25:00
-description:
+description: Modern machine learning models defy the bias-variance trade-off. A new theory of machine learning must be developed to explain the double descent phenomenon and the success of over-parameterized models. 
 tags: ml theory tutorials
 tikzjax: true
 featured: true
