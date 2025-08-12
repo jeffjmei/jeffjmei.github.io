@@ -6,7 +6,6 @@ description: Modern machine learning models defy the bias-variance trade-off. A 
 tags: ml theory tutorials
 tikzjax: true
 featured: true
-thumbnail: /assets/img/double-descent-curve.png
 ---
 
 # Double Descent

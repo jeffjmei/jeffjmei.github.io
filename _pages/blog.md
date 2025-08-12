@@ -175,7 +175,7 @@ pagination:
   </div> <!-- /.col-sm-9 -->
   <div class="col-sm-3">
     <img class="card-img" src="{{ post.thumbnail | relative_url }}"
-         style="object-fit: cover; height: 90%" alt="image" loading="lazy">
+         style="object-fit: cover; max-height: 250px; width: 100%" alt="image" loading="lazy">
   </div>
 </div> <!-- /.row -->
 {% endif %}

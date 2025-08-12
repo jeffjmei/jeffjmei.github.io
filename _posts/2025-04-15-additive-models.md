@@ -6,7 +6,6 @@ description: Generalized additive models are powerful but can easily overfit in 
 tags: ml theory tutorials
 tikzjax: true
 featured: true
-thumbnail: /assets/img/3dplot.png
 related_publications: true
 ---
 
