@@ -5,7 +5,7 @@ date: 2025-04-15 22:25:00
 description: Generalized additive models are powerful but can easily overfit in high dimensions. Techniques like COSSO and its extensions use soft-thresholding to automatically select important components, making these models more reliable and interpretable. 
 tags: ml theory tutorials
 tikzjax: true
-featured: true
+featured: false
 related_publications: true
 ---
 

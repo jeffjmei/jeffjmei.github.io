@@ -5,7 +5,7 @@ date: 2025-08-01 12:25:00
 description:  
 tags: 
 tikzjax: true
-featured: true
+featured: false
 thumbnail: /assets/img/DUR_NDUR_volatility.png
 related_publications: false
 ---
@@ -21,6 +21,6 @@ related_publications: false
 
 When you collect data for a long enough time, the data-generating process will inevitably change. The mean might shift, the variance might shrink. _Change points_ are where these changes occur. 
 
-Failing to incorporate _change points_ into an analysis risks producing spurious inference. In other words, we risk making false conclusions. Research in _change point analysis_ is focused on extending the statistical repertoire to handle distribution shifts to produce valid statistical inference. 
+Failing to incorporate _change points_ into an analysis risks producing false conclusions. Research in _change point analysis_ is focused on extending the statistical inference repertoire to handle distribution shifts. 
 
 Change points are present in a wide variety of applications, but their primary use is with biomedical and economic/financial data. Stock prices are collected every second of every day, but market conditions change constantly. Over time, laws get passed and policies get enacted. Each of these can trigger a bull run or a recession. We cannot accurately study these time-series without considering the distribution shifts. 
