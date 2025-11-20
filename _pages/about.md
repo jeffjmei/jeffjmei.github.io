@@ -24,11 +24,9 @@ social: false # includes social icons at the bottom of the page
 - uncertainty quantification
 - machine learning theory
 - replication crisis
-- optimization
 
 ### Contact Info
 
-**Email**: [jmei@arizona.edu](mailto:jmei@arizona.edu)  
-**Office**: PAS 526  
-1118 E. Fourth Street  
-Tucson, AZ 85721
+- **Email**: [jmei@arizona.edu](mailto:jmei@arizona.edu)  
+- **LinkedIn**: [linkedin.com/in/jeffrey-mei](https://www.linkedin.com/in/jeffrey-mei-a1a007358/)  
+- **GitHub**: [https://github.com/jeffjmei](https://github.com/jeffjmei)  
