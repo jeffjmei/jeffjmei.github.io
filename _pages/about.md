@@ -28,5 +28,5 @@ social: false # includes social icons at the bottom of the page
 ### Contact Info
 
 - **Email**: [jmei@arizona.edu](mailto:jmei@arizona.edu)  
-- **LinkedIn**: [linkedin.com/in/jeffrey-mei](https://www.linkedin.com/in/jeffrey-mei-a1a007358/)  
+- **LinkedIn**: [linkedin.com/in/jeffjmei](https://www.linkedin.com/in/jeffjmei/)  
 - **GitHub**: [https://github.com/jeffjmei](https://github.com/jeffjmei)  
