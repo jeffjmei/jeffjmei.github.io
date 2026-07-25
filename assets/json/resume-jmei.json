@@ -37,11 +37,10 @@
       "startDate": "2022-08-01",
       "endDate": "",
       "location": "Tucson, AZ",
-      "summary": "Researching correlation estimation methods with change points. Wrote simulation reports and organized ML seminars.",
+      "summary": "Researching statistical methods for correlation estimation and causal inference.",
       "highlights": [
-        "Developed method for estimating cross-sectional correlation with change points",
-        "Implemented and simulated algorithms in R",
-        "Wrote technical reports and organized machine learning seminars"
+        "Developed methods for correlation estimation and causal effect estimation",
+        "Implemented algorithms, ran simulations, and analyzed data in R"
       ]
     },
     {
@@ -65,24 +64,25 @@
         "Simulated new boarding procedures adopted company-wide",
         "Automated tools with Python/VBA, improving workflow across departments",
         "Built predictive models and performed data analysis to support operations", 
-        "Optimized fare pricing and migrated tools to AWS"
+        "Optimized fare pricing and migrated tools to web services"
       ]
     }
   ],
   "skills": [
     {
       "name": "Programming",
-      "keywords": ["R", "Python", "SQL", "VBA", "C++", "Java"]
+      "keywords": ["R", "Python", "SQL", "Bash", "VBA", "C++", "Java"]
     },
     {
       "name": "Tools",
-      "keywords": ["Git", "Linux", "Docker", "AWS (Lambda, EC2, S3)", "Markdown", "Jupyter Notebooks"]
+      "keywords": ["Git", "Linux", "Docker", "AWS (Lambda, EC2, S3)", "Distributed Computing"]
     },
     {
       "name": "Modeling",
       "keywords": [
-        "Linear regression", "Hierarchical mixed effects models", 
-        "Neural networks", "Tree-Based Models"
+        "Causal Inference", "Experimental Design", "Linear Regression", "Time-Series Analysis",
+        "Survival Analysis", "Monte Carlo Simulation", "Optimization",
+        "Hierarchical Mixed Effects Models", "Neural Networks", "Tree-Based Models", "Ensemble Methods"
       ]
     }
   ],
