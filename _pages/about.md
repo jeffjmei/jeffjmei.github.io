@@ -29,6 +29,6 @@ I'm a statistician interested in using computational tools to analyze interestin
 
 ### Contact Info
 
-- **Email**: [jmei@arizona.edu](mailto:jmei@arizona.edu)  
-- **LinkedIn**: [linkedin.com/in/jeffjmei](https://www.linkedin.com/in/jeffjmei/)  
-- **GitHub**: [https://github.com/jeffjmei](https://github.com/jeffjmei)  
+<i class="fa-solid fa-envelope"></i> **Email**: [jmei@arizona.edu](mailto:jmei@arizona.edu)  
+<i class="fa-brands fa-linkedin"></i> **LinkedIn**: [linkedin.com/in/jeffjmei](https://www.linkedin.com/in/jeffjmei/)  
+<i class="fa-brands fa-github"></i> **GitHub**: [github.com/jeffjmei](https://github.com/jeffjmei)
