@@ -18,7 +18,7 @@ related_publications: false
 
 **Correlation requires i.i.d. data.** Classical correlation estimation assumes the data is <u>independent</u>, so there is no autocorrelation, and it also assumes the data is <u>identically distributed</u>, so the mean and variance do not change over time.
 
-**Time series are often not i.i.d.** As data collection technologies improve, we're collecting data at higher frequencies, so <u>autocorrelation is becoming more ubiquitous</u>. Time series are also characterized by <u>trends, seasonality, and change points</u>, all of which violate the identically distributed assumption. In short, time series are neither independent, nor identically distributed. <span style="color: red;">Applying classical correlation estimators on non-i.i.d. data will produce spurious correlation.</span>
+**Time series are often not i.i.d.** As data collection technologies improve, we're collecting data at higher frequencies, so <u>autocorrelation is becoming more ubiquitous</u>. Time series are also characterized by <u>trends, seasonality, and change points</u>, all of which violate the identically distributed assumption. In short, time series are neither independent, nor identically distributed. <span style="color: #fb4934;">Applying classical correlation estimators on non-i.i.d. data will produce spurious correlation.</span>
 
 **Example.** Consider two uncorrelated sequences of data that share the same mean. Take
 
@@ -49,7 +49,7 @@ $$
 Taking the expectation, we get
 
 $$
-\mathbb{E}\left[T_k(X, Y)\right] = \textcolor{red}{\sigma_{XY}} + k \, T_1(\theta).
+\mathbb{E}\left[T_k(X, Y)\right] = \textcolor[RGB]{251,73,52}{\sigma_{XY}} + k \, T_1(\theta).
 $$
 
 The desired covariance pops out, but is biased by $$T_1(\theta)$$ &mdash; a function of the mean $$\theta$$, which is unknown in practice.
