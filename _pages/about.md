@@ -22,6 +22,7 @@ I'm a statistician interested in using computational tools to analyze interestin
 ### Research Interests
 
 - non-stationary time-series
+- causal inference
 - uncertainty quantification
 - machine learning theory
 - replication crisis
