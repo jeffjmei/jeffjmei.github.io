@@ -25,7 +25,6 @@ I'm interested in using computational tools to analyze interesting problems and 
 - causal inference
 - uncertainty quantification
 - machine learning theory
-- replication crisis
 
 ### Contact Info
 
