@@ -10,8 +10,7 @@ h5,
 h6,
 em,
 div,
-li,
-strong {
+li {
   color: var(--global-text-color);
 }
 
@@ -19,6 +18,11 @@ h1,
 h2,
 h3 {
   color: var(--global-theme-color);
+}
+
+strong,
+b {
+  color: #d79921;
 }
 
 hr {
