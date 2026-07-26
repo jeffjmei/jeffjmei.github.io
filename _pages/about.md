@@ -17,6 +17,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
+I'm a statistician interested in using computational tools to analyze interesting problems and tell compelling stories.
+
 ### Research Interests
 
 - non-stationary time-series
