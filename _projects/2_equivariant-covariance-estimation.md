@@ -30,8 +30,8 @@ $$
 with $$\text{Cov}(X_i, Y_i) = 0, \, \forall i$$. If there is a mean shift, then they will become spuriously correlated.
 
 <div class="row d-flex justify-content-center text-center">
-    <div class="col-sm mt-3 mt-md-0" style="max-width: 600px;" >
-        {% include figure.liquid loading="eager" path="assets/img/ece-spurious-correlation.png" title="spurious correlation from a mean shift" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm mt-3 mt-md-0 figure-frame" style="max-width: 600px;" >
+        {% include figure.liquid loading="eager" path="assets/img/ece-spurious-correlation.png" title="spurious correlation from a mean shift" class="img-fluid rounded" %}
     </div>
 </div>
 <div class="caption text-center">
@@ -55,8 +55,8 @@ $$
 The desired covariance pops out, but is biased by $$T_1(\theta)$$ &mdash; a function of the mean $$\theta$$, which is unknown in practice.
 
 <div class="row d-flex justify-content-center text-center">
-    <div class="col-sm mt-3 mt-md-0" style="max-width: 300px;" >
-        {% include figure.liquid loading="eager" path="assets/img/ece-regression.png" title="regression-based debiasing" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm mt-3 mt-md-0 figure-frame" style="max-width: 300px;" >
+        {% include figure.liquid loading="eager" path="assets/img/ece-regression.png" title="regression-based debiasing" class="img-fluid rounded" %}
     </div>
 </div>
 <div class="caption text-center">
@@ -76,8 +76,8 @@ This is an unbiased covariance estimator in the presence of mean shifts.
 Labor productivity measures how much output a worker produces per hour worked, and it's a key indicator of economic health and long-run growth. During the 2008 market crash, several economic sectors suffered severe shocks to their labor productivity. We'll take a close look at two manufacturing sectors: durables and non-durables. Durable manufacturing includes things that last a long time (e.g. washing machines, refrigerators, cars), whereas non-durable manufacturing includes things that don't (e.g. clothes, food, paper products).
 
 <div class="row d-flex justify-content-center text-center">
-    <div class="col-sm mt-3 mt-md-0" style="max-width: 600px;" >
-        {% include figure.liquid loading="eager" path="assets/img/DUR_NDUR_volatility.png" title="durable vs. non-durable manufacturing volatility" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm mt-3 mt-md-0 figure-frame" style="max-width: 600px;" >
+        {% include figure.liquid loading="eager" path="assets/img/DUR_NDUR_volatility.png" title="durable vs. non-durable manufacturing volatility" class="img-fluid rounded" %}
     </div>
 </div>
 

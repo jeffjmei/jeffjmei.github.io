@@ -5,18 +5,20 @@
 // Typography
 
 p,
-h1,
-h2,
-h3,
 h4,
 h5,
 h6,
 em,
 div,
 li,
-span,
 strong {
   color: var(--global-text-color);
+}
+
+h1,
+h2,
+h3 {
+  color: var(--global-theme-color);
 }
 
 hr {
@@ -37,10 +39,10 @@ table {
 
 a,
 table.table a {
-  color: var(--global-theme-color);
+  color: var(--global-link-color);
 
   &:hover {
-    color: var(--global-theme-color);
+    color: var(--global-link-color);
     text-decoration: underline;
   }
 
@@ -608,11 +610,11 @@ footer.sticky-bottom {
     }
 
     a {
-      color: var(--global-text-color);
+      color: var(--global-theme-color);
       text-decoration: none;
 
       &:hover {
-        color: var(--global-theme-color);
+        text-decoration: underline;
       }
     }
 
@@ -1341,4 +1343,14 @@ ninja-keys::part(ninja-input-wrapper) {
 ::highlight(search) {
   background-color: var(--global-theme-color);
   color: var(--global-text-color);
+}
+
+// Mounts a figure (often a white-background plot) on a card so it reads as
+// intentional rather than a jarring bright rectangle against the theme background.
+.figure-frame {
+  background-color: var(--global-card-bg-color);
+  border: 1px solid var(--global-divider-color);
+  border-radius: 0.5rem;
+  padding: 0.5rem;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
 }

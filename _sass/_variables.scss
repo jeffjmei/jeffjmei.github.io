@@ -20,6 +20,31 @@ $green-color-light: #ddffdd !default;
 $green-color-bright: #11d68b !default;
 $purple-color: #b509ac !default;
 $light-purple-color: color.adjust($purple-color, $lightness: 25%);
+// Gruvbox palette
+$gruvbox-bg-light: #fbf1c7 !default; // light0
+$gruvbox-bg-light-soft: #f2e5bc !default; // light1, for cards
+$gruvbox-fg-light: #3c3836 !default; // dark1
+$gruvbox-grey-light: #7c6f64 !default; // gray, secondary text
+$gruvbox-border-light: #d5c4a1 !default; // light3, dividers
+
+$gruvbox-bg-dark: #282828 !default; // dark0
+$gruvbox-bg-dark-soft: #3c3836 !default; // dark1, for cards
+$gruvbox-fg-dark: #ebdbb2 !default; // light1
+$gruvbox-grey-dark: #a89984 !default; // gray, secondary text
+$gruvbox-border-dark: #504945 !default; // dark2, dividers
+
+$gruvbox-blue: #076678 !default;
+$gruvbox-blue-bright: #83a598 !default;
+$gruvbox-orange: #af3a03 !default;
+$gruvbox-orange-bright: #fe8019 !default;
+$gruvbox-yellow: #b57614 !default;
+$gruvbox-yellow-bright: #fabd2f !default;
+$gruvbox-green: #79740e !default;
+$gruvbox-green-bright: #b8bb26 !default;
+$gruvbox-red: #9d0006 !default;
+$gruvbox-red-bright: #fb4934 !default;
+$gruvbox-aqua: #427b58 !default;
+$gruvbox-aqua-bright: #8ec07c !default;
 $pink-color: #f92080 !default;
 $pink-color-light: #ffdddd !default;
 $yellow-color: #efcc00 !default;
