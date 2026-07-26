@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Refitted Cross-Validation
+title: Causal Effect Estimation in High Dimensions
 description: A regression-adjustment method for high-dimensional causal effect estimation
 img: assets/img/refitted-cross-validation.svg
 importance: 2
