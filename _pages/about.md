@@ -2,7 +2,6 @@
 layout: about
 title: About
 permalink: /
-subtitle: University of Arizona PhD Student in Statistics and Data Science.
 
 profile:
   align: right
